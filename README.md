@@ -1,4 +1,4 @@
-# Título do projeto
+# Exemplo de README para a aula de WEB 1 - Prof. Márcio - 16/09/23
 
 Um parágrafo da descrição do projeto vai aqui
 
