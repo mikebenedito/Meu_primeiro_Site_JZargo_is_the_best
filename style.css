@@ -1,0 +1,46 @@
+body{
+    border-style: solid;
+    border-width: 5px;
+}
+
+.imagemcapa {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.container {
+    position: relative;
+}
+
+.text-block {
+    position: absolute;
+    color: white;
+    font-size: 40px;
+    bottom: 5px;
+    left: 15px;
+}
+
+.principal-texto {
+    background-color: rgb(182, 182, 182);
+    border-style: solid;
+    border-width: 2.5px;
+    color: black;
+    font-size: 33px;
+    text-align: center;
+}
+
+.imagensdisplay {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+footer {
+    background-color: rgb(121, 121, 121);
+    text-align: center;
+    border-style: solid;
+    border-width: 2.5px;
+}
