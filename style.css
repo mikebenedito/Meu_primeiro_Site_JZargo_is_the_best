@@ -1,4 +1,4 @@
-body{
+body {
     border-style: solid;
     border-width: 5px;
 }
@@ -27,7 +27,7 @@ body{
     border-style: solid;
     border-width: 2.5px;
     color: black;
-    font-size: 33px;
+    font-size: 30px;
     text-align: center;
 }
 
@@ -36,6 +36,14 @@ body{
     margin-left: auto;
     margin-right: auto;
     width: 70%;
+    border-style: solid;
+    border-radius: 2px;
+}
+
+q {
+    font-style: italic;
+    font-size: 33px;
+    color: rgb(43, 43, 43);
 }
 
 footer {
