@@ -13,6 +13,7 @@ Esse site eu fiz de acordo com as especificações da tarefa, sendo elas:
 - Usar imagens/vídeos 
 - E ter o site hospedado online (COM O LINK DO README) 
   
+LINK DO SITE > https://jzargoisthebest.netlify.app/ < LINK DO SITE
 
 Explicação HTML: 
   
